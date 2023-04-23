@@ -1,0 +1,12 @@
+Bug tracking
+
+Programmers and managers usually have different definitions of bug tracking. Programmers are tend to imply some tools such as "LLDB", disassemblers, or other software by bug tracking, whereas managers look at it from a business perspective. The latter simply use project management system for pointing out drawbacks.
+
+The main goal of a programmer is to eliminate any unsustainable behavior of a program that leads to either unpredictable or unexpected results. The overwhelming majority of bugs is related to concurrency, even the most experienced engineers may overlook issues in multithreading.
+
+The main goal of a manager is to control the process of testing software, doing so must prevent software from having bugs.
+
+To sum up:
+- Testers find bugs and inform PMs or other managers about it
+- PMs give priority to a bug and create tasks to deal with them by using PMS
+- Programmers fix bugs
