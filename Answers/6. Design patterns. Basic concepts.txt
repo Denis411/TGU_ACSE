@@ -1,0 +1,23 @@
+Design patterns. Core concepts.
+
+Design patterns are nothing more but standardized solutions to frequent problems.
+
+Why use patterns?
+
+- Saving time
+Do not invent the wheel
+- Communication purposes
+You can replace a complex explanation of either a problem or a solution with a single work
+- Readability
+Many people know Dos which means your code is going to be more readable
+- Maintainability
+Using patterns helps you use SOLID principles
+- Testability
+Comes as a result of logic separation
+
+A common mistake happens when unexperienced programmers begin using patterns without thinking, patterns can be altered with different solutions. DPs are meant for problem solving not for project development.
+
+UML is a language for design that is often used in creating diagrams.
+
+https://refactoring.guru is a great website that contains much information on the concept.
+
