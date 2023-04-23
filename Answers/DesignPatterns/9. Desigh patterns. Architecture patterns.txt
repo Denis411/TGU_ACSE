@@ -1,0 +1,20 @@
+Architecture patterns (AP)
+
+Speaking of APs I must highlight the fact that every approach must be used in a specific situation. For example, there is no need to use a complex AP when creating a small pet project. Another highlight is that you can combine APs to make something new.
+
+Here is a list of APs that I consistently use:
+- MVC
+- MVP
+- VIPER
+- MVC
+- MVVM
+- VIP
+
+V is usually for view, M is used for Model.
+
+The main idea of any architecture is to separate UI logic from business rules.
+You can use principles of Clean Architecture with many approaches.
+
+Examples implemented by me.
+MVVM (reactive approach) - https://github.com/Denis411/iWord
+MVP - https://github.com/Denis411/MVP_Food_Screen
