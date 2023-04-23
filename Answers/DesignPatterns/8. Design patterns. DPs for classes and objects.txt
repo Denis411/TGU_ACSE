@@ -1,0 +1,37 @@
+DP of classes and objects
+
+Before diving into some concrete implementation of patterns I would like to mention that there is no such thing as strict algorithm to follow, sticking to the core idea is a key to success. In addition, DP can only be implemented in object oriented languages, with some minor differences for different languages. By way of example, C++ allows us to use multiple inheritence, whereas Swift does not support that mechanism.
+
+Here is a list of the most famous patterns:
+
+1) Creational Design Patterns
+- Factory method
+- Abstract factory
+- Builder
+- Prototype
+- Singleton
+
+2) Structural Design Patterns
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+
+3) Behavioral Design Patterns
+- Chain of responsibilities
+- Command
+- Iterator
+- Mediator
+- Momento
+- Observer
+- State
+- Strategy
+- Template method
+- Visitor
+
+Implementation of some patterns is used in standard libraries. For instance, Flyweight is a pattern used by Apple to dequeue cells of a UITableView. Reactive programming is based on Observer and Iterator.
+
+Please visit https://github.com/Denis411/MVP_Food_Screen to see the implementation of some core patterns. 
