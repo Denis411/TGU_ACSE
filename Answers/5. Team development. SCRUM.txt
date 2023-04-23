@@ -1,0 +1,14 @@
+Scrum
+
+Scrum is a framework of 'agile' management systems created in order to make teamwork more proficient and easier to use. Manager and technical staff usually have different levels of understanding of the process, however the idea remains standing for both. I'm going exempting it from programmers' perspective because I have a technical specialty.
+
+Flow of events.
+- Business has some requirements
+- Managers split the requirements into small pieces
+- Managers create sprints based with a number of tasks, the number should not change within a particular spring
+- Programmers take tasks from backlog and evaluate the time(or story points) needed for completed them
+- The whole team starts working
+
+
+Scrum is not necessarily the fastest approach but it is quite predictable which makes it a great approach for companies.
+
