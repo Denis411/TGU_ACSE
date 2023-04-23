@@ -1,0 +1,30 @@
+Integration patterns ( microservice architecture )
+
+What is integration?
+- Different systems working together
+- Different programming languages
+- Different message formats
+
+Today, integration is expected
+- No redundancy
+- No retype
+- Universal view of data
+
+Why use integration patterns?
+
+Different software has different formats.
+- XML, JSON, etc.
+- Routing can modify one XML message to look like another
+
+Point to point connection versus hub and spoke.
+- Point to point: each time you add a point, you have to connect it to all other points. Expensive
+- Hub and spoke: each new point simply requires a gateway to transform it to a canonical model
+
+Example:
+We have a few sources on the internet that we have to concolidate for android, and iOS apps. Consolidating the sources directly in those apps is not a good idea because we might want to add laptop apps with the same functionality in the future.
+
+Solution:
+Use aggregation of data to copy data into a central location for further analysis and processing, for example, data warehouses, data lakes, or dashboards.
+
+Result:
+We encapsulate logic for multiple platforms in a single place, which ,in turn, makes code more testable, maintainable, understandable. 
