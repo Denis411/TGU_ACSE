@@ -1,0 +1,18 @@
+Version control systems(VCS)
+
+There are three fundamental types of VCSs in the industry. I will describe all three types below.
+
+Distributed VCS. (DVCS)
+This is the most widespread type. The idea behind the type is as follows, a person copies a repository to his local machine. After making changes to the copy you have to merge changes with the main remote repo, doing so may lead to merge conflicts.
+Git is a well-known implementation of a DVCS.
+
+
+Centralized VCS. (CVCS)
+This is an outdated type, which is rarely used nowadays. The idea behind the type is as follows, a person must pull the lates changes from a remote repo to create a commit after that the person can push changes.
+
+Local Version Control System. (LVCS)
+The older type. LVCS located on your local computer, in which every file change is stored as a patch. Every patch set contains only the changes made to the file since its last version. Rarely do programmers use this approach.
+
+
+Note.
+Some huge companies use their own VCS combining all types of VCSs.
