@@ -1,0 +1,13 @@
+Project management systems(PMS)
+
+There is a countless number of PMSs in the modern world. However, I have to mention that some companies utilize very specific tools developed for themselves. In addition, you have to keep in mind that PMSs may be used by non-it companies too.
+
+
+Three the most popular PMSs
+- Jira
+- Basecamp
+- ClickUp
+
+See more at https://hive.com/blog/project-management-software/
+
+You should not be focusing on a specific tool even though all PMSs are pretty much the same, learning concepts is a way better approach.
