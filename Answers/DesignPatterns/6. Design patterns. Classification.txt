@@ -1,0 +1,18 @@
+Classification of design patterns
+
+Design patterns are a feature of object oriented programming. One of the most important features of DP is making code more readable.
+
+A large number of design patterned has been created, but 27 of them are widely used in any kind of software development. Pretty much any patterned can fall into one of three categories.
+
+1. Creational patterns (CDP)
+CDPs provide various object creation techniques, that increase flexibility and reuse of existing code.
+
+2. Structural patterns (SDP)
+The name speaks for itself. SDP explain how to modules into larger structures, while keeping these structures flexible and efficient.
+
+3. Behavioral patterns (BDP)
+BDPs are aimed at resources and behavior separation.
+
+I prefer keeping in mind SOLID principles when working with DPs.
+
+To sum up, design patterns make life of a programmer way easier by giving a standard of solving frequent problems.
