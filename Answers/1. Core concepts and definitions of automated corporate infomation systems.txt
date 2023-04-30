@@ -1,0 +1,20 @@
+Automated control systems of enterprises (ACSE) as well as automated control systems of production technological processes (ACSP TP) are both may lead to high performance, quality, and efficiency increases even though this is not their main function.
+
+System - is a set of elements connected to each other by certain relationships, and forming a certain integrity, unity.
+
+Information system - is the totality of information contained in data bases and providing its processing of information technologies and technical means. ( in accordance with the Russian law )
+
+Automated information system - a collection of software and hardware designed to automate activities related to information storage, transmission and processing.
+
+
+Automated information system can be "simple" and "complex" with several subtypes listed below:
+- factual, documentary and multimedia
+- documentary
+- multimedia
+
+
+AISs develop alternative solutions, they may be model or expert.
+- Model systems provide the user with mathematical, statistical, financial and other models that facilitate the development and evaluation of alternative solutions.
+- Expert systems provide the development and evaluation of possible alternatives by the user due to the creation of expert systems related to knowledge processing.
+
+The experience of development and implementation of various classes of automated systems showed high economic efficiency of their application. It is reflected in the good organization of work and production, increasing the accuracy of planning and the implementation of set tasks.
